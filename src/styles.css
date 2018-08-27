@@ -1,0 +1,14 @@
+@tailwind preflight;
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+@tailwind components;
+
+@tailwind utilities;
